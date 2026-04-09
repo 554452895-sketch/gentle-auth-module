@@ -43,7 +43,7 @@ const Login = () => {
             <div className="w-12 h-12 rounded-xl bg-white/20 backdrop-blur-sm flex items-center justify-center">
               <Sparkles className="w-6 h-6" />
             </div>
-            <span className="text-2xl font-bold">MyApp</span>
+            <span className="text-2xl font-bold">AI自动生成爆火短视频</span>
           </div>
           <h1 className="text-4xl font-bold mb-4 leading-tight">
             欢迎使用<br />下一代平台
@@ -76,7 +76,7 @@ const Login = () => {
             <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
               <Sparkles className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">MyApp</span>
+            <span className="text-xl font-bold text-foreground">AI自动生成爆火短视频</span>
           </div>
 
           <Card className="shadow-xl border-0 bg-card/80 backdrop-blur-sm">
